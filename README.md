@@ -14,9 +14,5 @@ Este é um simples sistema de loja de animais desenvolvido em C#. O sistema perm
 - C# (CSharp)
 - .NET (qualquer versão compatível com o seu compilador de C#)
 
-## Como Rodar
 
-1. Clone este repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/SeuUsuario/LojaDeAnimais.git
 
