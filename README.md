@@ -12,7 +12,7 @@ Este é um simples sistema de loja de animais desenvolvido em C#. O sistema perm
 ## Tecnologias Usadas
 
 - C# (CSharp)
-- .NET (qualquer versão compatível com o seu compilador de C#)
+
 
 
 
